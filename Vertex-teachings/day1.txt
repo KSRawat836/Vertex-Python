@@ -1,0 +1,56 @@
+part1: 
+1)hello world / output
+2)string manipulation (\t,\n)
+3)input
+4)variables and len function
+
+targert 1: band name generator:
+Create a greeting for your program.
+Ask the user for the city that they grew up in and store it in a variable.
+Ask the user for the name of a pet and store it in a variable.
+Combine the name of their city and pet and show them their band name.
+
+part 2:
+1)data types(Strings,Integers,Floats,Booleans)
+2)type error, checking and conversion
+3)Arithmetic operation( PEMDASLR Order
+                        ()
+                        **
+                        * OR /
+                        + OR -)
+4)number manipualation (round function and type conversion f-strings)
+target 2:   tip calculator:
+build a tip calculator.
+If the bill was $150.00, split between 5 people, with 12% tip.
+Each person should pay:
+(150.00 / 5) * 1.12 = 33.6
+After formatting the result to 2 decimal places = 33.60
+
+part 3:
+1) if-else
+2)modulo (check even odd)
+3)nesting and elif
+4)multiple if
+5)logical operator
+target 3: build an automatic pizza order program.
+Based on a user's order, work out their final bill. Use the input() function to get a user's preferences and then add up the total for their order and tell them how much they have to pay.
+
+Small pizza (S): $15
+
+Medium pizza (M): $20
+
+Large pizza (L): $25
+
+Add pepperoni for small pizza (Y or N): +$2
+
+Add pepperoni for medium or large pizza (Y or N): +$3
+
+Add extra cheese for any size pizza (Y or N): +$1
+
+Example Interaction
+Welcome to Python Pizza Deliveries!
+What size pizza do you want? S, M or L: L
+Do you want pepperoni on your pizza? Y or N: Y
+Do you want extra cheese? Y or N: N
+Your final bill is: $28.
+optional: treasure hunt game:
